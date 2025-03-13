@@ -1,5 +1,3 @@
-# desafioAmigoSecreto
-
 
 Descripción del proyecto;
 
