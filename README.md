@@ -30,7 +30,7 @@ Continuar asi hasta tener los nombres suficientes, y por último se selecciona e
 
 Y se obtiene el nombre aleatorio:
 
-![alt text](assets/amigo-secreto.png)
+![alt text](assets/resultado_nombre.png)
 
 
 Autores del proyecto.
