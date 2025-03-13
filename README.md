@@ -4,7 +4,7 @@ Descripción del proyecto;
 Este proyecto consiste en una forma de jugar al amigo secreto, ingresando los valores de los nombres y seleccionando aleatoriamente uno de esos nombres, mostrándolo en pantalla.
 
 
-Funcionalidades
+#Funcionalidades
 
 - Ingreso de nombres
 - Validación de campos vacíos
